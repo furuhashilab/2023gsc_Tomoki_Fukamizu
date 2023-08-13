@@ -13,9 +13,7 @@
 
 ### タイトル： 企業に自分を最大限にアピールできるポートフォリオの作成
 ### title: Creating a portfolio to maximally promote myself to companies
-
-###　　成果物↓↓
-[成果物](https://tomoki0715.github.io/)
+### [成果物](https://tomoki0715.github.io/)
 
 ## Abstract
 本研究では、企業等に自分を優秀な人材だと思わせるためのポートフォリオを作成する。具体的には、企業が私を雇いたいと思うようなWebページを作成する。それと並行して、このポートフォリオに書くための実績作りも行なっていく。
