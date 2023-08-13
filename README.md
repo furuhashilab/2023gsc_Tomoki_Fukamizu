@@ -14,8 +14,8 @@
 ### タイトル： 企業に自分を最大限にアピールできるポートフォリオの作成
 ### title: Creating a portfolio to maximally promote myself to companies
 
-# 
-# 概要
+
+## Abstract
 
 
 ## Introduction:
