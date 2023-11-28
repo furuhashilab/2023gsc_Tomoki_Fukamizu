@@ -11,8 +11,8 @@
 
 ©︎Furuhashi Laboratory/tomokifukamizu, CC BY 4.0
 
-### タイトル： 就活における自分の失敗や学びをまとめる
-
+### タイトル： 失敗学を応用した就活
+##-失敗学を応用して、悔いのない就活を行う-
 ## [副産物](https://tomoki0715.github.io/)
 
 ## Abstract
